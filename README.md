@@ -1,4 +1,3 @@
-# os232
-Sean's OS232
+# Sean's OS232
 
-[LOG](https://github.com/TomoriNow/os232/blob/master/TXT/mylog.txt) ||
+|| [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/TomoriNow/os232/) ||
