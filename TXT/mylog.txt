@@ -22,6 +22,13 @@ ZCZC W01 15 L03 GitHub related
 ZCZC W01 15 L11 Assignment #01
 ZCZC W01 15 L11 Assignment #01
 ZCZC W01 10 L01 SCELE/Discord related
+ZCZC W02 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 90 L12 Assignment #02
+ZCZC W02 15 L01 SCELE/Discord related
+ZCZC W02 05 L03 GitHub and git related, including commit, push, pull
+
+
+
 
 
 
