@@ -25,17 +25,30 @@ Curious on learning more about the AWK Command? Well fret not, as you can check 
 on how to utilize the AWK command in Linux practically and efficiently. What makes this interesting is that thorough examples are given all over the guide, which
 is a great thing.
 
-6. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+6. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
 This link provides a complete guide on how to use markdown commands in GitHub, especially to modify README.md files, as well as how to customize and
 organize code, text, or syntax. It's interesting because the cheatsheet provides clear examples on how to use different types of markdowns and also
 you are able to copy and paste them.
 
-7. [The Basics of Using the Sed Stream Editor to Manipulate Text in Linux](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux#printing-lines)
+7. [The Basics of Using the Sed Stream Editor to Manipulate Text in Linux](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux#printing-lines)<br>
 The link here provides you with the basics of using SED (stream editor) command for text manipulation in linux. It is worth the read because the article
 teaches you about the syntax of SED, how to print lines with it, using the Address ranges, and many more. Additionally, there are even comments
 where you can post questions and other users could answer them.
 
-8. [Looping statements in Shell Script](https://www.geeksforgeeks.org/looping-statements-shell-script/)
+8. [Looping statements in Shell Script](https://www.geeksforgeeks.org/looping-statements-shell-script/)<br>
 This link informs you about how to use the loops correctly in shell script, particularly loops that involves a for loop, a while loop, as well as an until loop.
 It's definitely a helpful and interesting read because it teaches you some examples of using the loop and also display what the output would look like in the
 shell.
+
+9. [Linux and Unix sort command tutorial with examples](https://shapeshed.com/unix-sort/#:~:text=To%20sort%20by%20number%20pass,needs%20to%20be%20sorted%20numerically)<br>
+This link gives you information on how to use the "sort" command in Linux in order to sort lines of text files. It is interesting read because it shows you that you can sort text files
+based on unique strings, how to sort in reverse order, as well as how to sort and remove duplicates with examples that are animated and clear; this gives a clear understanding to the reader.
+
+10. [How to Create and Run a Bash Script in Linux](https://youtu.be/p9sJGwGsO3E?si=o_yipTsHOi2GzS2Z)<br>
+The link here gives you the knowledge on how to create, edit, and run a bash script in Linux with a step-by-step and straightforward manner. I find this tutorial quite interesting
+because it is to-the-point and does not beat around the bust on how to create and run a bash script; it is simple and easy to understand!
+
+11. [Rename user's group name](https://superuser.com/questions/404135/rename-users-group-name)<br>
+If you are stuck or are having a problem on having an invalid group name within the linux terminal, then this link should be helpful as it discusses on how to change
+a user's group name with the groupmod command. It is interesting because it shows that other people are also having the same struggle, and yet they can arrive at the same solution
+through this forum.
