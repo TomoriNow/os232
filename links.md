@@ -52,3 +52,7 @@ because it is to-the-point and does not beat around the bust on how to create an
 If you are stuck or are having a problem on having an invalid group name within the linux terminal, then this link should be helpful as it discusses on how to change
 a user's group name with the groupmod command. It is interesting because it shows that other people are also having the same struggle, and yet they can arrive at the same solution
 through this forum.
+
+12. [How to Use Nano, the Linux Command Line Text Editor](https://linuxize.com/post/how-to-use-nano-text-editor/)<br>
+Other than the Vim editor on Linux, you are able to edit with the Nano text editor! This article talks about how to install, edit, and create files with the Nano editor in the Linux powershell. 
+It is definitely an interesting read because it gives the you the option to write in a different text editor and tells you on how to manipulate text files in the editor quickly and swiftly. For example, the article tells you about syntax highlighting, copying/pasting, as well as searching and replacing.
