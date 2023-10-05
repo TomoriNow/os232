@@ -56,3 +56,7 @@ through this forum.
 12. [How to Use Nano, the Linux Command Line Text Editor](https://linuxize.com/post/how-to-use-nano-text-editor/)<br>
 Other than the Vim editor on Linux, you are able to edit with the Nano text editor! This article talks about how to install, edit, and create files with the Nano editor in the Linux powershell. 
 It is definitely an interesting read because it gives the you the option to write in a different text editor and tells you on how to manipulate text files in the editor quickly and swiftly. For example, the article tells you about syntax highlighting, copying/pasting, as well as searching and replacing.
+
+13. [C program for a counter](https://stackoverflow.com/questions/27171065/c-program-for-a-counter)<br>
+Making a counter program in C is relatively easy to do if you simply read this article. It explains how to make a counter at which in every 10 seconds it would check the state of a switch.
+The counter is also designed to sleep for 10 seconds, and if the switch is on, the counter will increment and otherwise it will reset to 0 and go to sleep. This article is pretty interesting because it is simple, intuitive, and easy to understand in the code provied by the users in the forum!

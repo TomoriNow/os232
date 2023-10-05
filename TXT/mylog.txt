@@ -6,7 +6,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
-
+ZCZC W05 05 L41 TXT/mylog.txt related.
+ZCZC W05 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 90 L09 Assignment in General.
+ZCZC W05 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 05 L41 TXT/mylog.txt related.
 ZCZC W04 60 L09 Assignment in General
 ZCZC W04 99 L02 CLASSROOM/ZOOM meetings related
