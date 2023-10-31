@@ -60,3 +60,7 @@ It is definitely an interesting read because it gives the you the option to writ
 13. [C program for a counter](https://stackoverflow.com/questions/27171065/c-program-for-a-counter)<br>
 Making a counter program in C is relatively easy to do if you simply read this article. It explains how to make a counter at which in every 10 seconds it would check the state of a switch.
 The counter is also designed to sleep for 10 seconds, and if the switch is on, the counter will increment and otherwise it will reset to 0 and go to sleep. This article is pretty interesting because it is simple, intuitive, and easy to understand in the code provied by the users in the forum!
+
+14. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+This link talks about the fork() system call in C, which is used to create a new process in Linux systems called the child process. This link provides quite an interesting read because it explains what values are returned by fork() (negative value, zero, and positive value),
+as well as provide multiple and detailed examples of using fork() in C. There are even problems based on C fork() which is helpful if you are looking for a quick exercise.
