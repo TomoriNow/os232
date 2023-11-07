@@ -64,3 +64,7 @@ The counter is also designed to sleep for 10 seconds, and if the switch is on, t
 14. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 This link talks about the fork() system call in C, which is used to create a new process in Linux systems called the child process. This link provides quite an interesting read because it explains what values are returned by fork() (negative value, zero, and positive value),
 as well as provide multiple and detailed examples of using fork() in C. There are even problems based on C fork() which is helpful if you are looking for a quick exercise.
+
+15. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
+The link above teaches you on how to copy files securely using the SCP command in Linux. It is particularly interesting because it introduces you a clear way on how to securely copy files from either a local storage to an online storage, or from an online storage to a local storage.
+The website also provides you with clear examples on how to execute the command using a sample local and remote system, which is helpful since it gives a practical way on how to actually use the command in Linux!
