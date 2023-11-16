@@ -68,3 +68,7 @@ as well as provide multiple and detailed examples of using fork() in C. There ar
 15. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
 The link above teaches you on how to copy files securely using the SCP command in Linux. It is particularly interesting because it introduces you a clear way on how to securely copy files from either a local storage to an online storage, or from an online storage to a local storage.
 The website also provides you with clear examples on how to execute the command using a sample local and remote system, which is helpful since it gives a practical way on how to actually use the command in Linux!
+
+16. [Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0 by Kernotex](https://youtu.be/uggsnHSELos?si=RWrIR8Y87tkFkcGl)<br>
+If you are currently at the stage of building Linux from scratch and are feeling confused on taking the right steps, then the link above to a video will certainly help you! The link will direct you to a YouTube video by Kernotex on Chapter 5
+Version 12.0 from the LFS (Linux From Scratch) Book. The video is interesting and very helpful because he discusses on steps that are not explicitly mentioned in the book chapter, such as extracting the tar file or going (cd) into the tar file/directory to make the dependencies needed and the tools to create Linux from scratch. It is highly recommended that you check this video out if you are confused in any of the steps in Chapter 5.
